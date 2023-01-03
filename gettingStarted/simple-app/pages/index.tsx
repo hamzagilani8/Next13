@@ -13,7 +13,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main className={styles.main}>
-        <div className={styles.head}>
+        <div className={styles.description}>
           <h1>
             Hello World!!&nbsp;
           </h1>
